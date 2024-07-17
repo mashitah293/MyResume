@@ -1,0 +1,89 @@
+#logo{
+    height: 50px;
+}
+
+#sec2{
+    background-color: rgb(219, 246, 240);
+    height: 2000px;
+    width: 1515px;
+    background-size: cover;
+}
+
+.card{
+    display: flex;
+    border: 2px solid grey;
+       align-items: center;
+       ;
+       
+        }
+.name{
+    
+    background-color: white;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    border: 3px dotted grey;
+   
+    
+}
+
+.container{
+    display: flex;
+    background-color: rgb(137, 179, 242);
+    height: 700px;
+    width: 2000px;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    border: 2px dashed grey;
+    text-align: center;
+   
+}
+
+#me{
+    background-image: url(me1.png);
+    background-size: cover;
+    width: 300px;
+    height: 450px;
+    position: absolute;
+    left: 1000px;
+    top:0px;
+    bottom: 1000px;
+    z-index: 1;
+}
+
+.container1{
+    display: flex;
+    background-color: rgb(137, 179, 242);
+    height: 400px;
+    width: 1150px;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    border: 2px dashed grey;
+    margin-left: 185px;
+    margin-bottom: 100px;
+}
+.table{
+    background-color: white;
+    height: 200px;
+    width: 1000px;
+    border: 2px solid grey;
+    margin-bottom: 100px;
+}
+
+.container2{
+    display: flex;
+    background-color: rgb(137, 179, 242);
+    height: 500px;
+    width: 1150px;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    border: 2px dashed grey;
+    margin-left: 185px;
+    margin-bottom: 50px;
+}
+
